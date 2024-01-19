@@ -25,4 +25,9 @@ https://gitlab.com/Misaka-blog/tuic-script/
 
 juicity(替代tuic):
 https://github.com/Misaka-blog/juicity-script
+
+acme.sh（证书一键申请）：
+https://github.com/Misaka-blog/acme-script
+//前提：将Godaddy购买的域名xxx.com添加到Cloudflare
+//参考：https://www.multimediaxp.com/post/154/how-to-add-a-godaddy-domain-to-cloudflare
 ```
